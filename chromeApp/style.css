@@ -17,6 +17,19 @@ img {
     z-index: -1;
 }
 
+.blank {
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid #f7f7f7;
+    color: #f7f7f7;
+    text-align: center;
+    padding: 20px;
+}
+
+.login-button {
+    display: none;
+}
+
 #clock {
     margin-top: 200px;
     color: #f7f7f7;
